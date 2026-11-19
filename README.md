@@ -14,6 +14,17 @@ Leveraging a nationwide public dataset of over 274,000 records from the Israeli 
 ## 📚 References
 * **Original Paper:** Zoabi, Y., Deri-Rozov, S. & Shomron, N. Machine learning-based prediction of COVID-19 diagnosis based on symptoms. npj Digit. Med. (2021).[https://doi.org/10.1038/s41746-020-00372-6](https://doi.org/10.1038/s41746-020-00372-6)
 * **Dataset Source:** Israeli Ministry of Health COVID-19 Public Database(https://data.gov.il/dataset/covid-19) via the authors' original GitHub Repository(https://github.com/nshomron/covidpred).
+
+## Files in this repository
+* **Finding the Positive_Classifying COVID-19 in an imbalanced Dataset.pptx** - our hackathon presentation
+# Models
+# data
+* * **data/corona_tested_individuals_ver_0083.english.csv.zip** - The tested individuals dataset downloaded from https://data.gov.il/dataset/covid-19 on November 15, 2020 and translated into English
+* **data/corona_tested_individuals_ver_006.english.csv.zip** - The tested individuals dataset downloaded from https://data.gov.il/dataset/covid-19 on May 4, 2020 and translated into English.
+# original_research_files
+* **original_research_files/lgbm_model_all_features.txt** - The original predictor that uses all 8 features by Zoabi et al
+* **original_research_files/lgbm_model_balanced_features.txt** - The original predictor that uses only balanced symptoms by Zoabi et al
+* **original_research_files/hyperparameters.txt** - The original hyperparameters used by lightGBM by Zoabi et al
 ---
 
 Original (Zoabi et al., 2021) GitHub repo overview;
