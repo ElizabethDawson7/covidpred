@@ -18,6 +18,7 @@ Leveraging a nationwide public dataset of over 274,000 records from the Israeli 
 ## Files in this repository
 * **Finding the Positive_Classifying COVID-19 in an imbalanced Dataset.pptx** - our hackathon presentation
 ### Models
+* models we used in our hackathon
 ### data
 * **data/corona_tested_individuals_ver_0083.english.csv.zip** - The tested individuals dataset downloaded from https://data.gov.il/dataset/covid-19 on November 15, 2020 and translated into English
 * **data/corona_tested_individuals_ver_006.english.csv.zip** - The tested individuals dataset downloaded from https://data.gov.il/dataset/covid-19 on May 4, 2020 and translated into English.
