@@ -17,11 +17,11 @@ Leveraging a nationwide public dataset of over 274,000 records from the Israeli 
 
 ## Files in this repository
 * **Finding the Positive_Classifying COVID-19 in an imbalanced Dataset.pptx** - our hackathon presentation
-# Models
-# data
-* * **data/corona_tested_individuals_ver_0083.english.csv.zip** - The tested individuals dataset downloaded from https://data.gov.il/dataset/covid-19 on November 15, 2020 and translated into English
+### Models
+### data
+* **data/corona_tested_individuals_ver_0083.english.csv.zip** - The tested individuals dataset downloaded from https://data.gov.il/dataset/covid-19 on November 15, 2020 and translated into English
 * **data/corona_tested_individuals_ver_006.english.csv.zip** - The tested individuals dataset downloaded from https://data.gov.il/dataset/covid-19 on May 4, 2020 and translated into English.
-# original_research_files
+### original_research_files
 * **original_research_files/lgbm_model_all_features.txt** - The original predictor that uses all 8 features by Zoabi et al
 * **original_research_files/lgbm_model_balanced_features.txt** - The original predictor that uses only balanced symptoms by Zoabi et al
 * **original_research_files/hyperparameters.txt** - The original hyperparameters used by lightGBM by Zoabi et al
