@@ -1,5 +1,4 @@
-# Cambridge Spark Lv 7 Hackathon: 
-## Rapid COVID-19 Screening via ML Tools
+# Cambridge Spark Lv 7 Hackathon: Rapid COVID-19 Screening via ML Tools
  
 For our November 2026 Hackathon, we were tasked with a rapid-fire, two-day data science challenge, working in a randomised team of five peers selected from across our Level 7 AI and Data Science Specialist cohorts. Operating under tight time constraints, our brief was to build, tune, and evaluate machine learning models capable of predicting COVID-19 infection status using only eight simple, self-reported symptoms and demographic features.
  
