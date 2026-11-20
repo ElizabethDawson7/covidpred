@@ -6,7 +6,7 @@ Leveraging a nationwide public dataset of over 274,000 records from the Israeli 
  
 ## 👥 Meet our Team
 * **Ruby Buckley** [@RubyB-Ghub](https://github.com/RubyB-Ghub) — GSK
-* **Nikki Brown** [@nikkip7476](https://github.com/nikkip7476)) — University of Kent
+* **Nikki Brown** [@nikkip7476](https://github.com/nikkip7476) — University of Kent
 * **Lizzie Dawson** [@ElizabethDawson7](https://github.com/ElizabethDawson7) — University of Oxford
 * **Alberto Liuzzo-Scorpo** [@albliusc](https://github.com/albliusc) — NHS England
 * **Allison Jordan** [@AJordanSE](https://github.com/AJordanSE) — NHS England
